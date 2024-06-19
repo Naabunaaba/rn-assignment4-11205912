@@ -42,8 +42,8 @@ The styles are defined using StyleSheet.create and are tailored to ensure respon
 
 
 SCREENSHOTS
-![Alt text](assets/Screenshot1.png)
-![Alt text](assets/Screenshot2.png)
+![Alt text](assets/Loginscreenshot.png)
+![Alt text](assets/Homepagescreenshot.png)
 
 
 Navigation
